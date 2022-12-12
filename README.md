@@ -27,10 +27,10 @@ example <i>python3 vol.py -p /path/to/my/custom/plugins</i> <br>
 
 -o = This argument allows you to specify where extracted processes or DLLs are stored. <br>
 example <i>python3 vol.py -o /output/extracted/files/here</i> <br>
-<br><br><br><br><br><br>
+<br><br><br>
 Windows Plugins <br>
 example <i>python3 vol.py -f //saved memory dump location// //windowplugin// <i><br>
- <br><br><br>
+ <br><br>
 windows.pslist = This plugin lists all of the processes that were running at the time of the capture.<br>
  
 windows.psscan	= This plugin allows us to analyse a specific process further.<br>

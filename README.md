@@ -16,7 +16,7 @@ In order to find out information about the operating system you can use <br>
 --- windows.info<br>
 --- linux.info<br>
 --- mac.info<br>
-example - <i>python3 vol.py file windows.info</i><br>
+example - <i>python3 vol.py path/to/my/memory/dump windows.info</i><br>
 <br>Options
 <br>
 -h = volatility help menu <br>

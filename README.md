@@ -5,5 +5,8 @@ Volatility is an open-source memory forensics toolkit written in Python. Volatil
 List all processes that were running on the device at the time of the capture
 List active and closed network connections
 Use Yara rules to search for indicators of malware
-Retrieve hashed passwords, clipboard contents, and contents of the command prompt
-And much, much more!
+Retrieve hashed passwords, clipboard contents, and contents of the command prompt and more
+<br>
+<br>
+<br>
+Volatility can be ran with <<python3 vol.py>>

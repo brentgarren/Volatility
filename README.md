@@ -9,4 +9,4 @@ Retrieve hashed passwords, clipboard contents, and contents of the command promp
 <br>
 <br>
 <br>
-Volatility can be ran with <i>python3 vol.py</i>
+Volatility can be ran with <i><b>python3 vol.py</b></i>

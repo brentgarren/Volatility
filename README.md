@@ -12,6 +12,10 @@ Retrieve hashed passwords, clipboard contents, and contents of the command promp
 <br>
 Volatility can be ran with <i><b>python3 vol.py</b></i>
 <br>
+In order to find out information about the operating system you can use <br>
+--- windows.info<br>
+---linux.info<br>
+---mac.info<br>
 <br>Options
 <br>
 -h = volatility help menu <br>
